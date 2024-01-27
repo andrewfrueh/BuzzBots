@@ -2,6 +2,26 @@
 
 Bring your imagination to life with BuzzBots, a modular vibration-actuated toolkit that lets you build anything from walking creatures to rumbling machines!
 
+## History
+
+I developed this toolkit back around 2012-2014. You can read about it on my website:
+https://www.andrewfrueh.com/buzzbots/ 
+
+Here's an early prototype made with a popsicle stick.
+![BuzzBot prototype](images/2013-03-04_0001_edit.jpg)
+
+Then you can see it progress...
+![BuzzBot prototype](images/2013-03-04_0002_edit.jpg)
+
+and progress...
+![BuzzBot prototype](images/2013-03-04_0004_edit.jpg)
+
+... to the final form.
+![BuzzBot prototype](images/2013-03-07_0005_b.jpg)
+![BuzzBot prototype](images/2013-03-07_0006_b.jpg)
+![BuzzBot prototype](images/2013-03-07_0001_b.jpg)
+
+
 ## What are BuzzBots?
 
 - Modular construction: Bolt together 3D-printed parts and tiny vibromotors to create unique BuzzBots.
