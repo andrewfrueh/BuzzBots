@@ -20,7 +20,7 @@ and progress...
 ![BuzzBot current](images/2024-01-22,%20buzzbots,%20img%204.jpg)
 ![BuzzBot current](images/2024-01-22,%20buzzbots,%20img%201.jpg)
 ![BuzzBot current](images/2024-01-22,%20buzzbots,%20img%203.jpg)
-![BuzzBot current](images/20240121_093831.jpg)
+![BuzzBot current](images/20240127_151310.jpg)
 
 
 ## What are BuzzBots?
