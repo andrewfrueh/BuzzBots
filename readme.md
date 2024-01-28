@@ -1,4 +1,4 @@
-# BuzzBots: Unleash Your Creativity with Tiny, Buzzing Robots
+# BuzzBots: Unleash Your Creativity with Tiny, Buzzing Bristlebot Robots
 
 Bring your imagination to life with BuzzBots, a modular vibration-actuated toolkit that lets you build a bristlebot, a drawing creature, or any other vibrating robot you can dream up!
 
