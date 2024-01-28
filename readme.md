@@ -17,9 +17,10 @@ and progress...
 ![BuzzBot prototype](images/2013-03-04_0004_edit.jpg)
 
 ... to the final form.
-![BuzzBot prototype](images/2013-03-07_0005_b.jpg)
-![BuzzBot prototype](images/2013-03-07_0006_b.jpg)
-![BuzzBot prototype](images/2013-03-07_0001_b.jpg)
+![BuzzBot current](images/2024-01-22,%20buzzbots,%20img%204.jpg)
+![BuzzBot current](images/2024-01-22,%20buzzbots,%20img%201.jpg)
+![BuzzBot current](images/2024-01-22,%20buzzbots,%20img%203.jpg)
+![BuzzBot current](images/20240121_093831.jpg)
 
 
 ## What are BuzzBots?
