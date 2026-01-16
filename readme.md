@@ -1,4 +1,4 @@
-# BuzzBots: Unleash Your Creativity with Tiny, Buzzing Bristlebot Robots
+# BuzzBots: A Modular Toolkit for Mechanical Creatures
 
 **BuzzBots** is an open-source system for building simple, vibration-actuated robots. By combining 3D-printed parts with standard M3 hardware and a single vibration motor, you can create anything from a physics-testing "bristlebot" to an autonomous drawing machine.
 
