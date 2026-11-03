@@ -8,14 +8,14 @@ See this [YouTube video where I explain how to build a BuzzBot](https://www.yout
 
 I’ve designed these to be built with common "ingredients" to maximize the chance that they can propagate and grow in the wild:
 
-![BuzzBot size reference](images/20261102_195858.jpg)
-
 - 3D printed parts (Found in the `/print ready parts` folder)
 - Metric 3mm (M3) bolts and nuts
 - Stiff steel wire ("music wire") tipped with hot glue
 - 8mm AAA battery terminals
 - A single AAA battery
 - Small vibration motor (7mm diameter x 15mm long featured)
+
+![BuzzBot size reference](images/20261102_195858.jpg)
 
 ## Get Started
 
